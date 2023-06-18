@@ -1,4 +1,4 @@
-public class Clube {
+public class Clube { //oi
     private String nome;
     private int pontuacao;
     private int jogos;
